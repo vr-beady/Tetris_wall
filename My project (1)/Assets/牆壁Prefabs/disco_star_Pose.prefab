@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 2958965348229435507}
   m_Layer: 0
   m_Name: cp_L_elbow
-  m_TagString: Untagged
+  m_TagString: Lelbow
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -181,7 +181,7 @@ GameObject:
   - component: {fileID: 2958965348237878832}
   m_Layer: 0
   m_Name: cp_L_peivis
-  m_TagString: Untagged
+  m_TagString: Lpelvis
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -226,7 +226,7 @@ GameObject:
   - component: {fileID: 2958965348249789718}
   m_Layer: 0
   m_Name: cp_R_peivis
-  m_TagString: Untagged
+  m_TagString: Rpelvis
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -271,7 +271,7 @@ GameObject:
   - component: {fileID: 2958965348383783954}
   m_Layer: 0
   m_Name: cp_R_shoulder
-  m_TagString: Untagged
+  m_TagString: Rshoulder
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -316,7 +316,7 @@ GameObject:
   - component: {fileID: 2958965348435608268}
   m_Layer: 0
   m_Name: cp_R_knee
-  m_TagString: Untagged
+  m_TagString: RKnee
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -361,7 +361,7 @@ GameObject:
   - component: {fileID: 2958965348436679809}
   m_Layer: 0
   m_Name: cp_R_elbow
-  m_TagString: Untagged
+  m_TagString: Relbow
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -406,7 +406,7 @@ GameObject:
   - component: {fileID: 2958965348667207677}
   m_Layer: 0
   m_Name: cp_L_shoulder
-  m_TagString: Untagged
+  m_TagString: Lshoulder
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -451,7 +451,7 @@ GameObject:
   - component: {fileID: 2958965349229466810}
   m_Layer: 0
   m_Name: cp_R_foot
-  m_TagString: Untagged
+  m_TagString: Rfoot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -496,7 +496,7 @@ GameObject:
   - component: {fileID: 2958965349313671221}
   m_Layer: 0
   m_Name: cp_L_hand
-  m_TagString: Untagged
+  m_TagString: Lhand
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -541,7 +541,7 @@ GameObject:
   - component: {fileID: 2958965349407518852}
   m_Layer: 0
   m_Name: cp_L_knee
-  m_TagString: Untagged
+  m_TagString: Lknee
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -586,7 +586,7 @@ GameObject:
   - component: {fileID: 2958965349434671585}
   m_Layer: 0
   m_Name: cp_R_hand
-  m_TagString: Untagged
+  m_TagString: Rhand
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -631,7 +631,7 @@ GameObject:
   - component: {fileID: 2958965349470150883}
   m_Layer: 0
   m_Name: cp_head
-  m_TagString: Untagged
+  m_TagString: Head
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -676,7 +676,7 @@ GameObject:
   - component: {fileID: 2958965349560849387}
   m_Layer: 0
   m_Name: cp_L_foot
-  m_TagString: Untagged
+  m_TagString: Lfoot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

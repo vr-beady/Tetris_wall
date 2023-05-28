@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 8478548611673746319}
   m_Layer: 0
   m_Name: cp_head
-  m_TagString: Untagged
+  m_TagString: Head
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -57,7 +57,7 @@ GameObject:
   - component: {fileID: 8478548611677215361}
   m_Layer: 0
   m_Name: cp_L_elbow
-  m_TagString: Untagged
+  m_TagString: Lelbow
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -102,7 +102,7 @@ GameObject:
   - component: {fileID: 8478548611715129740}
   m_Layer: 0
   m_Name: cp_L_foot
-  m_TagString: Untagged
+  m_TagString: Lfoot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -147,7 +147,7 @@ GameObject:
   - component: {fileID: 8478548611811589546}
   m_Layer: 0
   m_Name: cp_R_shoulder
-  m_TagString: Untagged
+  m_TagString: Rshoulder
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -192,7 +192,7 @@ GameObject:
   - component: {fileID: 8478548611892842191}
   m_Layer: 0
   m_Name: cp_L_hand
-  m_TagString: Untagged
+  m_TagString: Lhand
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -237,7 +237,7 @@ GameObject:
   - component: {fileID: 8478548611896104913}
   m_Layer: 0
   m_Name: cp_R_peivis
-  m_TagString: Untagged
+  m_TagString: Rpelvis
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -255,7 +255,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8478548613514931839}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!135 &8478548611896104913
 SphereCollider:
@@ -282,7 +282,7 @@ GameObject:
   - component: {fileID: 8478548611900760034}
   m_Layer: 0
   m_Name: cp_R_foot
-  m_TagString: Untagged
+  m_TagString: Rfoot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -327,7 +327,7 @@ GameObject:
   - component: {fileID: 8478548612590916794}
   m_Layer: 0
   m_Name: cp_R_hand
-  m_TagString: Untagged
+  m_TagString: Rhand
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -372,7 +372,7 @@ GameObject:
   - component: {fileID: 8478548612592552343}
   m_Layer: 0
   m_Name: cp_L_peivis
-  m_TagString: Untagged
+  m_TagString: Lpelvis
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -417,7 +417,7 @@ GameObject:
   - component: {fileID: 8478548613101711373}
   m_Layer: 0
   m_Name: cp_R_knee
-  m_TagString: Untagged
+  m_TagString: RKnee
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -435,7 +435,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8478548613514931839}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!135 &8478548613101711373
 SphereCollider:
@@ -462,7 +462,7 @@ GameObject:
   - component: {fileID: 8478548613106115996}
   m_Layer: 0
   m_Name: cp_L_shoulder
-  m_TagString: Untagged
+  m_TagString: Lshoulder
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -534,8 +534,8 @@ Transform:
   - {fileID: 8478548613106115970}
   - {fileID: 8478548611677215367}
   - {fileID: 8478548611892842189}
-  - {fileID: 8478548613101711411}
   - {fileID: 8478548611896104919}
+  - {fileID: 8478548613101711411}
   - {fileID: 8478548611900760032}
   - {fileID: 8478548612592552341}
   - {fileID: 8478548613588101333}
@@ -631,7 +631,7 @@ GameObject:
   - component: {fileID: 8478548613529349955}
   m_Layer: 0
   m_Name: cp_R_elbow
-  m_TagString: Untagged
+  m_TagString: Relbow
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -676,7 +676,7 @@ GameObject:
   - component: {fileID: 8478548613588101335}
   m_Layer: 0
   m_Name: cp_L_knee
-  m_TagString: Untagged
+  m_TagString: Lknee
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
