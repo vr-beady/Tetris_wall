@@ -6,6 +6,8 @@ public class girl_trigger : MonoBehaviour
 {
     private List<GameObject> colliders = new List<GameObject>();
     
+
+
     private string[] body = new string[13] { "head", 
         "Rshoulder", "Relbow", "Rhand",
         "Lshoulder", "Lelbow", "Lhand", 
