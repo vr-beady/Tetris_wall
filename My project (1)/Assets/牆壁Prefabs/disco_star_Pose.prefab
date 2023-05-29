@@ -134,7 +134,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2958965348229435509}
   - component: {fileID: 2958965348229435507}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: cp_L_elbow
   m_TagString: Lelbow
   m_Icon: {fileID: 0}
@@ -179,7 +179,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2958965348237878834}
   - component: {fileID: 2958965348237878832}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: cp_L_peivis
   m_TagString: Lpelvis
   m_Icon: {fileID: 0}
@@ -224,7 +224,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2958965348249789704}
   - component: {fileID: 2958965348249789718}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: cp_R_peivis
   m_TagString: Rpelvis
   m_Icon: {fileID: 0}
@@ -269,7 +269,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2958965348383783956}
   - component: {fileID: 2958965348383783954}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: cp_R_shoulder
   m_TagString: Rshoulder
   m_Icon: {fileID: 0}
@@ -314,7 +314,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2958965348435608270}
   - component: {fileID: 2958965348435608268}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: cp_R_knee
   m_TagString: RKnee
   m_Icon: {fileID: 0}
@@ -359,7 +359,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2958965348436679811}
   - component: {fileID: 2958965348436679809}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: cp_R_elbow
   m_TagString: Relbow
   m_Icon: {fileID: 0}
@@ -404,7 +404,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2958965348667207679}
   - component: {fileID: 2958965348667207677}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: cp_L_shoulder
   m_TagString: Lshoulder
   m_Icon: {fileID: 0}
@@ -449,7 +449,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2958965349229466812}
   - component: {fileID: 2958965349229466810}
-  m_Layer: 0
+  m_Layer: 15
   m_Name: cp_R_foot
   m_TagString: Rfoot
   m_Icon: {fileID: 0}
@@ -494,7 +494,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2958965349313671223}
   - component: {fileID: 2958965349313671221}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: cp_L_hand
   m_TagString: Lhand
   m_Icon: {fileID: 0}
@@ -539,7 +539,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2958965349407518854}
   - component: {fileID: 2958965349407518852}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: cp_L_knee
   m_TagString: Lknee
   m_Icon: {fileID: 0}
@@ -584,7 +584,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2958965349434671587}
   - component: {fileID: 2958965349434671585}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: cp_R_hand
   m_TagString: Rhand
   m_Icon: {fileID: 0}
@@ -629,7 +629,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2958965349470150885}
   - component: {fileID: 2958965349470150883}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: cp_head
   m_TagString: Head
   m_Icon: {fileID: 0}
@@ -674,7 +674,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2958965349560849389}
   - component: {fileID: 2958965349560849387}
-  m_Layer: 0
+  m_Layer: 18
   m_Name: cp_L_foot
   m_TagString: Lfoot
   m_Icon: {fileID: 0}

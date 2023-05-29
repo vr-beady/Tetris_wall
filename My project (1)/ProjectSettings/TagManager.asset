@@ -17,6 +17,7 @@ TagManager:
   - Lpelvis
   - Lknee
   - Lfoot
+  - bodytag
   layers:
   - Default
   - TransparentFX
@@ -24,19 +25,19 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Head
+  - R_shoulder
+  - R_elbow
+  - R_hand
+  - L_shoulder
+  - L_elbow
+  - L_hand
+  - R_pelvis
+  - R_knee
+  - R_foot
+  - L_pelvis
+  - L_knee
+  - L_foot
   - 
   - 
   - 
