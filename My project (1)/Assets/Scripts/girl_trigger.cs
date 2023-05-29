@@ -5,6 +5,7 @@ using UnityEngine;
 public class girl_trigger : MonoBehaviour
 {
     private List<GameObject> colliders = new List<GameObject>();
+    
     private string[] body = new string[13] { "head", 
         "Rshoulder", "Relbow", "Rhand",
         "Lshoulder", "Lelbow", "Lhand", 
@@ -21,22 +22,23 @@ public class girl_trigger : MonoBehaviour
 
     void Update()
     {
-        
+       
     }
 
     private void OnTriggerEnter(Collider other)
     {
         if (!colliders.Contains(other.gameObject))
         {
-            /*colliders.Add(other.gameObject);
-
+            colliders.Add(other.gameObject);
+            /*
             for (int i = 0; i < 13; i++) {
                 if (other.gameObject.tag == body[i])
                 {
                     Debug.Log(body[i] + "_touch");
                 }
             }*/
-            if (other.gameObject.tag == "head") {
+            
+            if (other.gameObject.tag == "Head") {
                 Debug.Log("head_touch");
             }
             if (other.gameObject.tag == "Rshoulder"){
@@ -60,7 +62,7 @@ public class girl_trigger : MonoBehaviour
             if (other.gameObject.tag == "Rpelvis"){
                 Debug.Log("Rpelvis_touch");
             }
-            if (other.gameObject.tag == "Rknee"){
+            if (other.gameObject.tag == "RKnee"){
                 Debug.Log("Rknee_touch");
             }
             if (other.gameObject.tag == "Rfoot"){

@@ -17,7 +17,7 @@ public class viewwall : MonoBehaviour
     {
         if(Time.time - preTime > nextWallTime)
         {
-            nowWall = Random.Range(0, 17);//隨機牆
+            nowWall = Random.Range(0, 1);//隨機牆
             nextWallTime = Random.Range(6, 9);//5~10秒一個牆
             Instantiate(wall[nowWall], new Vector3(0, 5, -40), wall[nowWall].transform.rotation);
             preTime = Time.time;
